@@ -8,7 +8,7 @@ html , body{
 
 
 .cover{
-    background-image: url(/img/web_2page.jpg);
+     background-image: url("/img/web_2page.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
