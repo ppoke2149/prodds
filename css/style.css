@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+html , body{
+    height: 100%;
+}
+
+
+.cover{
+    background-image: url(/img/web_2page.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100%;
+
+}
+
